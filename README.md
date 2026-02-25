@@ -40,10 +40,10 @@ Due to data confidentiality, some API collection is not publicly shared . A simp
 - Test Scripts
 
 ## Projects
-- Poject Link 1: https://github.com/monsocode/My-QA-Portfolio-Automation-Cypress
-- project link 2: https://github.com/monsocode/Automation-demo-on-lambda-site
-- project link 3: 
-- 
+- Project Link 1: https://github.com/monsocode/My-QA-Portfolio-Automation-Cypress
+- Project Link 2: https://github.com/monsocode/Automation-demo-on-lambda-site
+- Project Link 3: 
+- Project Link 4: https://github.com/monsocode/A-Learning-practice
 
 ## How to use 
 - Click on the link

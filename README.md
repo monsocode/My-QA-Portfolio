@@ -42,7 +42,7 @@ Due to data confidentiality, some API collection is not publicly shared . A simp
 ## Projects
 - Project Link 1: https://github.com/monsocode/My-QA-Portfolio-Automation-Cypress
 - Project Link 2: https://github.com/monsocode/Automation-demo-on-lambda-site
-- Project Link 3: 
+- Project Link 3: https://github.com/monsocode/A-landing-page-practice
 - Project Link 4: https://github.com/monsocode/A-Learning-practice
 
 ## How to use 

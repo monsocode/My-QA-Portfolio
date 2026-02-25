@@ -58,6 +58,7 @@ Test across web and mobile applications, including fintech, logistics, and e-com
 
 ## What I did
 - Reviewed product requirements and understand user flows
+- Created a comprehensive Test Plan.
 - Designed test cases
 - Executed functional testing
 - Identified, logged and tracked defects
@@ -74,7 +75,23 @@ Test across web and mobile applications, including fintech, logistics, and e-com
 - Error handling
 - User interface behaviour
 
-## Sample test scenarios
+## Designed Test plan outlining
+- Test scope and objectives
+- Test strategy.
+- Test enviroment.
+- Resources plan.
+- Test schedule.
+- Risk assessment and mitigation.
+- Exit & exit criteria.
+- Test deliverables.
+# Test cases created for Gradific web Application
+https://docs.google.com/document/d/12Nbpga2VnlaHBEqkyQPBW8sfWzacYfnZYBIf-y8vgIk/edit?usp=drivesdk
+
+# Test cases created for Delve Application
+https://docs.google.com/document/d/1r3NcCa3rtF8R_sEhSBKFyPiDztbmqw28duCZub31hOw/edit?usp=drivesdk
+
+
+## Sample test scenarios/ test cases
 - signUp/Login with valid credentials
 - Login with invalid credential
 - Empty inputs and form validation
@@ -85,12 +102,21 @@ Test across web and mobile applications, including fintech, logistics, and e-com
 - Order/booking process information Validation
 - Session timeout behaviour
 
+# Test cases created for Delve Application
+https://docs.google.com/spreadsheets/d/1VHtufNzrdQw7xHU8JWcG9TNCXG6Zadx4yQzf-FcJFjA/edit?usp=drivesdk
+
 ## Defect reporting
 - Concise description of defects
 - Highlighted steps to reproduce
 - Compared expected vs actual results
 - Screenshots/Screencasts evidence and links
 - Severity and priority stated
+
+# Defect report on Gradific web application
+https://docs.google.com/spreadsheets/d/18iLZcAEU7DwB7LNgI3HvwMeOpzt_cVJgLSSrg7f85Es/edit?usp=drivesdk
+
+# Defect report on Delve web application
+https://docs.google.com/spreadsheets/d/17mnZwWOj6D2jDFVQtk0_ZGM_rjcKK28JuSmnL3TsxDw/edit?usp=drivesdk
 
 ## Tools used
 - Jira/ Trello

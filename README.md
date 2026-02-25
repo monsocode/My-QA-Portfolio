@@ -40,7 +40,8 @@ Due to data confidentiality, some API collection is not publicly shared . A simp
 - Test Scripts
 
 ## Projects
-- 
+- Poject Link 1: https://github.com/monsocode/My-QA-Portfolio-Automation-Cypress
+- project link 2: 
 
 ## How to use 
 - Click on the link

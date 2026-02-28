@@ -1,35 +1,43 @@
-# My-QA-Portfolio (Postman)
+# My-QA-Portfolio
 My name is **Monsur Olasunkanmi** and i am a Software Quality Assurance Engineer.
-With working and practical experience in Manual testing, Automation testing, Api validation using Postman, and SQL knowledge
-I specialize in ensuring your applications are reliable, secure, and deliver a seamless user experience.
-My goal is to improve software product quality by identifying defects early and collaborating effectively with development teams to resolve defect.
+i have experience in Manual testing, Automation testing, Api validation using Postman, and basic SQL.
+I focus on delivering quality, secure and reliable software products that support business success.
+My goal is to improve software product quality by identifying defects early and collaborating with development teams to resolve defect.
 
-This repo contains 3 sections, do not miss any part (Api validation using Postman, automation with Cypress, Manual testing experience) 
-### Postman collection for API testing
+This repository contains three sections: API validation using Postman, automation with Cypress, and manual testing experience.
 
-## Where i covered
-- SignUp/LoginIn
-- Happy path/ Negative testing/ Edge cases
-- API response validation (status code, response time, body)
-- Exploring different Request Methods (Get,Post,Put,Patch,Delete...)
-- Test Scripts
+### API validation using Postman
+## Areas Covered
+- Sign Up/Login
+- Authentication and authorization validation
+- Create cart and Add item to cart
+- Place an order
+- Delete an order
+- Happy path, Negative testing and Edge cases
+- API response validation (status code, response time, and response body)
+- Exploring different request methods (GET,POST,PUT,PATCH,DELETE...)
+- Writing Test Scripts
 
 ## Projects 
-Due to data confidentiality, some API collection is not publicly shared . A simple project is included to demonstrate testing approach.
+Due to data confidentiality, some API collections are not publicly shared . A simple project is included to demonstrate testing approach.
 - # Simple Grocery Store: https://martian-zodiac-943296.postman.co/workspace/Udemy-Grocery-store-by-me~61a2cebf-5a79-404c-aea8-54215e464851/collection/26782910-cd98229c-3554-4606-9681-65fbe9a96e41?action=share&creator=26782910&active-environment=26782910-fe9371ff-c9fa-4486-8d86-402edfdf8b84
 - # Trello: https://martian-zodiac-943296.postman.co/workspace/Udemy-Grocery-store-by-me~61a2cebf-5a79-404c-aea8-54215e464851/collection/26782910-cd98229c-3554-4606-9681-65fbe9a96e41?action=share&creator=26782910&active-environment=26782910-fe9371ff-c9fa-4486-8d86-402edfdf8b84
 - # Swagger: https://martian-zodiac-943296.postman.co/workspace/Second-API-practice~7b830425-a900-41cc-af54-e41b5c29e793/collection/26782910-cd98229c-3554-4606-9681-65fbe9a96e41?action=share&creator=26782910
 
-## Project Test coverage
-- signUp/ login
-- Authentication and authorizaton validation
-- Create a cart and Add to cart
-- Place an Order
-- Delete an order
+## Testing Approach
+For this API testing project, I focused on validating the functionality and reliability of the endpoints. I tested core user flows such as authentication, cart creation, and order placement.
+My testing approach included validating response status codes, response time, and response body structure. I also wrote JavaScript test scripts in Postman to automate response validation and ensure consistency across requests.
+I covered happy path scenarios, negative testing, and edge cases to confirm the API handles valid and invalid inputs properly.
 
-## Tools
+## Skills Demonstrated in the above projects
+- API Testing
+- Test case Design
+- Response Validation
+- Test Automation with Postman Scripts
+
+## Tools and language used
 - Postman
-- JavaScripts test scripts
+- JavaScript
 
 
 ### My Cypress Automation testing
